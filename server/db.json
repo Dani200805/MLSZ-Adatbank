@@ -105,10 +105,21 @@
       "alapitva": 1904,
       "stadion": "ETO Park",
       "befogadokepesseg": 12800,
-      "bajnoki_cimek": 5,
+      "bajnoki_cimek": 4,
       "szin": "#009933",
       "logo_emoji": "💚",
       "id": 10
+    },
+    {
+      "nev": "Budapest Honvéd",
+      "varos": "Budapest",
+      "alapitva": 1909,
+      "stadion": "Honvéd stadion",
+      "befogadokepesseg": 23000,
+      "bajnoki_cimek": 2,
+      "szin": "#E30613",
+      "logo_emoji": "⚽",
+      "id": 11
     }
   ],
   "jatekosok": [
@@ -353,18 +364,6 @@
       "erteke_m_eur": 0.6
     },
     {
-      "id": 21,
-      "nev": "Kovács Lázár",
-      "csapat_id": 10,
-      "pozicio": "Középpályás",
-      "kor": 27,
-      "allampolgarsag": "Magyar",
-      "meztszam": 8,
-      "gol": 5,
-      "meccs": 24,
-      "erteke_m_eur": 0.8
-    },
-    {
       "id": 22,
       "nev": "Ramirez Andres",
       "csapat_id": 1,
@@ -375,6 +374,78 @@
       "gol": 6,
       "meccs": 25,
       "erteke_m_eur": 3
+    },
+    {
+      "id": 23,
+      "nev": "Samuel Petráš",
+      "csapat_id": 10,
+      "pozicio": "Kapus",
+      "kor": 27,
+      "allampolgarsag": "Szlovák",
+      "meztszam": 99,
+      "gol": 0,
+      "meccs": 6,
+      "erteke_m_eur": 0.5
+    },
+    {
+      "id": 24,
+      "nev": "Márk Csinger",
+      "csapat_id": 10,
+      "pozicio": "Védő",
+      "kor": 23,
+      "allampolgarsag": "Magyar",
+      "meztszam": 21,
+      "gol": 0,
+      "meccs": 4,
+      "erteke_m_eur": 0.4
+    },
+    {
+      "id": 25,
+      "nev": "Milán Vitális",
+      "csapat_id": 10,
+      "pozicio": "Középpályás",
+      "kor": 24,
+      "allampolgarsag": "Magyar",
+      "meztszam": 27,
+      "gol": 1,
+      "meccs": 5,
+      "erteke_m_eur": 0.8
+    },
+    {
+      "id": 26,
+      "nev": "Rajmund Tóth",
+      "csapat_id": 10,
+      "pozicio": "Középpályás",
+      "kor": 22,
+      "allampolgarsag": "Magyar",
+      "meztszam": 6,
+      "gol": 0,
+      "meccs": 6,
+      "erteke_m_eur": 0.35
+    },
+    {
+      "id": 27,
+      "nev": "Nadhir Benbouali",
+      "csapat_id": 10,
+      "pozicio": "Csatár",
+      "kor": 26,
+      "allampolgarsag": "Algériai",
+      "meztszam": 7,
+      "gol": 2,
+      "meccs": 6,
+      "erteke_m_eur": 0.9
+    },
+    {
+      "id": 28,
+      "nev": "Schön Szabolcs",
+      "csapat_id": 10,
+      "pozicio": "Csatár",
+      "kor": 25,
+      "allampolgarsag": "Magyar",
+      "meztszam": 17,
+      "gol": 1,
+      "meccs": 5,
+      "erteke_m_eur": 1
     }
   ]
 }
